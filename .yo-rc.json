@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "The Future of Chart Building Tools",
+    "packageVersion": "0.0.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "aendrew",
+    "githubRepository": "mozfest2014"
+  }
+}

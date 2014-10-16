@@ -1,1 +1,21 @@
-["index.md"]
+[
+    "index.md",
+    "howdy.md",
+    [
+        "axisjs.md",
+        "axisjs2.md",
+        "axisjs3.md"
+    ],
+    [
+        "ways-of-thinking-about-data-visualisation.md",
+        "descriptive.md",
+        "abstracted-descriptive.md",
+        "exploratory.md",
+        "manyeyes-digression.md"
+    ],
+    "lets-do-a-poll.md",
+    "lets-do-another-poll.md",
+    "what-do-you-think.md",
+    "conclusions.md",
+    "thank-you.md"
+]

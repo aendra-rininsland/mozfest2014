@@ -1,10 +1,11 @@
 
 # The Future of Chart Building Tools
 
-From the terminal, pop in:
+Ben Chartoff (@BenChartoff) — Washington Post
 
-  ```yo reveal:slide "Slide Title"```
+Ændrew Rininsland  (@aendrew) — The Times and Sunday Times
 
-Available options:
 
- ```--markdown --attributes --notes```
+
+[1]: http://www.github.com/times/axisJS
+[2]: http://www.github.com/times/Axis

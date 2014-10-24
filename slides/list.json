@@ -6,11 +6,9 @@
         "axisjs2.md"
     ],
     "datawrapper.md",
-    [
-        "ways-of-thinking-about-data-visualisation.md",
-        "code.md",
-        "gui.md",
-    ],
+    "ways-of-thinking-about-data-visualisation.md",
+    "code.md",
+    "gui.md",
     "lets-do-a-poll.md",
     "lets-do-another-poll.md",
     "what-do-you-think.md",

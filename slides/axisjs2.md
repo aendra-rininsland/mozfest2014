@@ -1,6 +1,6 @@
-##  axisJS — what is it?
+## axisJS — what is it?
 
-### Project goals
+### Goals
 
 1. Easy integration of various D3-based frameworks into a simple interface
 1. Wide array of data input methods

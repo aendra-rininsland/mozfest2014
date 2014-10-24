@@ -6,12 +6,11 @@
         "axisjs2.md",
         "axisjs3.md"
     ],
+    "datawrapper.md",
     [
         "ways-of-thinking-about-data-visualisation.md",
-        "descriptive.md",
-        "abstracted-descriptive.md",
-        "exploratory.md",
-        "manyeyes-digression.md"
+        "code.md",
+        "gui.md",
     ],
     "lets-do-a-poll.md",
     "lets-do-another-poll.md",

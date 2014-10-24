@@ -1,8 +1,5 @@
-## Ways of thinking about data visualisation
+## Types of Chart Building Tools
 
++ Code based
++ GUI based
 
-+ descriptive
-+ abstracted descriptive
-+ exploratory
-
-(If this is really obvious, please bear with us)

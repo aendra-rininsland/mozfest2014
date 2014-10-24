@@ -7,4 +7,4 @@
 1. Allow charting frameworks to easily be replaced
 1. Straight-forward customisation and styling
 1. Easy integration into content management systems
-1. Easily create charts across a wide array of devices and media
+1. Create charts across a wide array of devices and media
